@@ -1,0 +1,7 @@
+/Users/kevinhougesen/DitNyt/Nyt/src/microfrontends/Nyt.NewsFeed/obj/Debug/net8.0/Nyt.NewsFeed.csproj.AssemblyReference.cache
+/Users/kevinhougesen/DitNyt/Nyt/src/microfrontends/Nyt.NewsFeed/obj/Debug/net8.0/Nyt.NewsFeed.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinhougesen/DitNyt/Nyt/src/microfrontends/Nyt.NewsFeed/obj/Debug/net8.0/Nyt.NewsFeed.AssemblyInfoInputs.cache
+/Users/kevinhougesen/DitNyt/Nyt/src/microfrontends/Nyt.NewsFeed/obj/Debug/net8.0/Nyt.NewsFeed.AssemblyInfo.cs
+/Users/kevinhougesen/DitNyt/Nyt/src/microfrontends/Nyt.NewsFeed/obj/Debug/net8.0/Nyt.NewsFeed.csproj.CoreCompileInputs.cache
+/Users/kevinhougesen/DitNyt/Nyt/src/microfrontends/Nyt.NewsFeed/obj/Debug/net8.0/Nyt.NewsFeed.MvcApplicationPartsAssemblyInfo.cache
+/Users/kevinhougesen/DitNyt/Nyt/src/microfrontends/Nyt.NewsFeed/obj/Debug/net8.0/Nyt.NewsFeed.sourcelink.json

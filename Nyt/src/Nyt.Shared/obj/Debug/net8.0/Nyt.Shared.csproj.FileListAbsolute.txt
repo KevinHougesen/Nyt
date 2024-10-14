@@ -1,0 +1,12 @@
+/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Shared/bin/Debug/net8.0/Nyt.Shared.deps.json
+/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Shared/bin/Debug/net8.0/Nyt.Shared.dll
+/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Shared/bin/Debug/net8.0/Nyt.Shared.pdb
+/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Shared/obj/Debug/net8.0/Nyt.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Shared/obj/Debug/net8.0/Nyt.Shared.AssemblyInfoInputs.cache
+/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Shared/obj/Debug/net8.0/Nyt.Shared.AssemblyInfo.cs
+/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Shared/obj/Debug/net8.0/Nyt.Shared.csproj.CoreCompileInputs.cache
+/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Shared/obj/Debug/net8.0/Nyt.Shared.sourcelink.json
+/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Shared/obj/Debug/net8.0/Nyt.Shared.dll
+/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Shared/obj/Debug/net8.0/refint/Nyt.Shared.dll
+/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Shared/obj/Debug/net8.0/Nyt.Shared.pdb
+/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Shared/obj/Debug/net8.0/ref/Nyt.Shared.dll
