@@ -26,11 +26,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Shared/Nyt.Shared.csproj": {
-                "projectPath": "/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Shared/Nyt.Shared.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -64,10 +60,6 @@
               "version": "[8.0.8, )",
               "autoReferenced": true
             },
-            "Piral.Blazor.Core": {
-              "target": "Package",
-              "version": "[8.0.17, )"
-            },
             "Piral.Blazor.DevServer": {
               "suppressParent": "All",
               "target": "Package",
@@ -81,10 +73,6 @@
             "Piral.Blazor.Utils": {
               "target": "Package",
               "version": "[8.0.17, )"
-            },
-            "mudblazor": {
-              "target": "Package",
-              "version": "[7.12.0, )"
             }
           },
           "imports": [
@@ -115,65 +103,6 @@
       "runtimes": {
         "browser-wasm": {
           "#import": []
-        }
-      }
-    },
-    "/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Shared/Nyt.Shared.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Shared/Nyt.Shared.csproj",
-        "projectName": "Nyt.Shared",
-        "projectPath": "/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Shared/Nyt.Shared.csproj",
-        "packagesPath": "/Users/kevinhougesen/.nuget/packages/",
-        "outputPath": "/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Shared/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/kevinhougesen/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

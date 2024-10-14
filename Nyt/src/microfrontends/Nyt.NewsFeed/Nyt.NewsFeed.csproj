@@ -8,8 +8,6 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.5" />
-    <PackageReference Include="mudblazor" Version="7.12.0" />
-    <PackageReference Include="Piral.Blazor.Core" Version="8.0.17" />
     <PackageReference Include="Piral.Blazor.DevServer" Version="8.0.17" PrivateAssets="all" />
     <PackageReference Include="Piral.Blazor.Utils" Version="8.0.17" />
     <PackageReference Include="Piral.Blazor.Tools" Version="8.0.17" ExcludeAssets="runtime" />
@@ -17,10 +15,6 @@
 
   <ItemGroup>
     <None Remove=".npmrc" Visible="false" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\..\Nyt.Shared\Nyt.Shared.csproj" />
   </ItemGroup>
 
 </Project>
