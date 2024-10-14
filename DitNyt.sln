@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nyt.Shared", "Nyt.Shared\Nyt.Shared.csproj", "{6430C3B3-C5AF-47AE-BAC4-DAF41D143680}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mfs", "Mfs", "{DC8C37B0-C54C-46C9-8716-B2AA80398C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nyt.NewsFeed", "Mfs\Nyt.NewsFeed\Nyt.NewsFeed.csproj", "{021D1552-64C4-4989-AD19-8A7442DDC1D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6430C3B3-C5AF-47AE-BAC4-DAF41D143680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6430C3B3-C5AF-47AE-BAC4-DAF41D143680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6430C3B3-C5AF-47AE-BAC4-DAF41D143680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6430C3B3-C5AF-47AE-BAC4-DAF41D143680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{021D1552-64C4-4989-AD19-8A7442DDC1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021D1552-64C4-4989-AD19-8A7442DDC1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021D1552-64C4-4989-AD19-8A7442DDC1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021D1552-64C4-4989-AD19-8A7442DDC1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A25B58A-A223-4612-8232-027A5A2F241D}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{021D1552-64C4-4989-AD19-8A7442DDC1D2} = {DC8C37B0-C54C-46C9-8716-B2AA80398C2F}
+	EndGlobalSection
+EndGlobal
