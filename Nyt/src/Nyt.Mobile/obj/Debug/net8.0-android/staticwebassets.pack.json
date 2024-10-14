@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Mobile/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Mobile/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Mobile/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Mobile/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/kevinhougesen/DitNyt/Nyt/src/Nyt.Mobile/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0-android/staticwebassets/msbuild.Nyt.Mobile.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0-android/staticwebassets/msbuild.build.Nyt.Mobile.props",
+      "PackagePath": "build\\Nyt.Mobile.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0-android/staticwebassets/msbuild.buildMultiTargeting.Nyt.Mobile.props",
+      "PackagePath": "buildMultiTargeting\\Nyt.Mobile.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0-android/staticwebassets/msbuild.buildTransitive.Nyt.Mobile.props",
+      "PackagePath": "buildTransitive\\Nyt.Mobile.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

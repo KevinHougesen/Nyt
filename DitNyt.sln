@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nyt", "Nyt", "{460B21C9-0E02-46EC-8D72-68CD6DEDAC2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{56D745C7-3833-4176-997F-C177C9A718D7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nyt.Web", "Nyt\src\Nyt.Web\Nyt.Web.csproj", "{34693EC0-93CF-4768-84BF-3B76F6EA6C5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nyt.AppShell", "Nyt\src\Nyt.AppShell\Nyt.AppShell.csproj", "{08CD3AE4-B3AB-4850-B344-3E63FD13BFFA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nyt.Shared", "Nyt\src\Nyt.Shared\Nyt.Shared.csproj", "{AE24E8AD-A492-4A64-A504-A74AF0FFB973}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nyt.Mobile", "Nyt\src\Nyt.Mobile\Nyt.Mobile.csproj", "{B02FA1F3-D923-46DC-9492-F92EB0D018E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "microfrontends", "microfrontends", "{A30FE565-73D3-4940-B051-1F672C7F29FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nyt.NewsFeed", "Nyt\src\microfrontends\Nyt.NewsFeed\Nyt.NewsFeed.csproj", "{14661ACD-2501-4EE6-959B-755847EFD314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34693EC0-93CF-4768-84BF-3B76F6EA6C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34693EC0-93CF-4768-84BF-3B76F6EA6C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34693EC0-93CF-4768-84BF-3B76F6EA6C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34693EC0-93CF-4768-84BF-3B76F6EA6C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08CD3AE4-B3AB-4850-B344-3E63FD13BFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CD3AE4-B3AB-4850-B344-3E63FD13BFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CD3AE4-B3AB-4850-B344-3E63FD13BFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CD3AE4-B3AB-4850-B344-3E63FD13BFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE24E8AD-A492-4A64-A504-A74AF0FFB973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE24E8AD-A492-4A64-A504-A74AF0FFB973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE24E8AD-A492-4A64-A504-A74AF0FFB973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE24E8AD-A492-4A64-A504-A74AF0FFB973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B02FA1F3-D923-46DC-9492-F92EB0D018E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02FA1F3-D923-46DC-9492-F92EB0D018E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02FA1F3-D923-46DC-9492-F92EB0D018E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02FA1F3-D923-46DC-9492-F92EB0D018E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14661ACD-2501-4EE6-959B-755847EFD314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14661ACD-2501-4EE6-959B-755847EFD314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14661ACD-2501-4EE6-959B-755847EFD314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14661ACD-2501-4EE6-959B-755847EFD314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{56D745C7-3833-4176-997F-C177C9A718D7} = {460B21C9-0E02-46EC-8D72-68CD6DEDAC2D}
+		{34693EC0-93CF-4768-84BF-3B76F6EA6C5E} = {56D745C7-3833-4176-997F-C177C9A718D7}
+		{08CD3AE4-B3AB-4850-B344-3E63FD13BFFA} = {56D745C7-3833-4176-997F-C177C9A718D7}
+		{AE24E8AD-A492-4A64-A504-A74AF0FFB973} = {56D745C7-3833-4176-997F-C177C9A718D7}
+		{B02FA1F3-D923-46DC-9492-F92EB0D018E5} = {56D745C7-3833-4176-997F-C177C9A718D7}
+		{A30FE565-73D3-4940-B051-1F672C7F29FA} = {56D745C7-3833-4176-997F-C177C9A718D7}
+		{14661ACD-2501-4EE6-959B-755847EFD314} = {A30FE565-73D3-4940-B051-1F672C7F29FA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC1CED47-91D2-493B-94F0-9D645E61EF78}
+	EndGlobalSection
+EndGlobal

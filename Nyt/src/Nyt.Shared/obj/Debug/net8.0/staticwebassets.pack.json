@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/kevinhougesen/MauiWebApp/MauiBlazorWeb.Shared/obj/Debug/net8.0/scopedcss/projectbundle/MauiBlazorWeb.Shared.bundle.scp.css",
+      "PackagePath": "staticwebassets/MauiBlazorWeb.Shared.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/kevinhougesen/MauiWebApp/MauiBlazorWeb.Shared/wwwroot/.well-known/apple-app-site-association.json",
+      "PackagePath": "staticwebassets/.well-known/apple-app-site-association.json"
+    },
+    {
+      "Id": "/Users/kevinhougesen/MauiWebApp/MauiBlazorWeb.Shared/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/kevinhougesen/MauiWebApp/MauiBlazorWeb.Shared/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/kevinhougesen/MauiWebApp/MauiBlazorWeb.Shared/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MauiBlazorWeb.Shared.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MauiBlazorWeb.Shared.props",
+      "PackagePath": "build\\MauiBlazorWeb.Shared.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MauiBlazorWeb.Shared.props",
+      "PackagePath": "buildMultiTargeting\\MauiBlazorWeb.Shared.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MauiBlazorWeb.Shared.props",
+      "PackagePath": "buildTransitive\\MauiBlazorWeb.Shared.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

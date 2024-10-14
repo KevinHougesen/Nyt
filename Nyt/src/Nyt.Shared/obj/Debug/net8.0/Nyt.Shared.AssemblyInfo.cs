@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nyt.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dbe74f0e14180384f5972354818bb842c30990c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a27d7b0b8714553a1db9984876fdb6e843ea754")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nyt.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nyt.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

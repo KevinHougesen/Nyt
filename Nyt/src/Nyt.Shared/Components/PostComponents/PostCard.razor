@@ -1,0 +1,12 @@
+@using Nyt.Shared.Models
+
+<div class="post-card">
+    <h3>@Post.Title</h3>
+    <p>@Post.Content</p>
+    <!-- Other UI elements -->
+</div>
+
+@code {
+    [Parameter]
+    public PostModel Post { get; set; }
+}

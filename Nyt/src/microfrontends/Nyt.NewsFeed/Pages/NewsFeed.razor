@@ -1,0 +1,20 @@
+@page "/newsfeed"
+@using Nyt.Shared.Models
+@using Nyt.Shared.Components
+@inject ApiService ApiService
+
+<MudContainer>
+    @foreach (var post in Posts)
+    {
+        <PostCard Post="post" />
+    }
+</MudContainer>
+
+@code {
+    private List<Post> Posts;
+
+    protected override async Task OnInitializedAsync()
+    {
+        Posts = await ApiService.GetPostsAsync();
+    }
+}

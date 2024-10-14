@@ -1,0 +1,14 @@
+{
+    "activitycontinuation": {
+        "apps": [ "G5MF8PR3DY.net.azurewebsites.nytwebapp" ]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "G5MF8PR3DY.net.azurewebsites.nytwebapp",
+                "paths": [ "/banan/*" ]
+            }
+        ]
+    }
+}
